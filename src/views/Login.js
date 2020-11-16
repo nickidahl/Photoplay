@@ -1,9 +1,9 @@
-/** @jsxImportSource @emotion/core */;
-
+import Logo from "../components/Logo";
 
 const Login = () => {
+
     return ( 
-        <h1>Hey</h1>
+        <Logo />
      );
 }
  
