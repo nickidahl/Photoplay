@@ -21,6 +21,7 @@
     "paths-js": "^0.4.11",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-hook-form": "^6.11.3",
     "react-scripts": "4.0.0",
     "resize-observer-polyfill": "^1.5.1",
     "web-vitals": "^0.2.4"
